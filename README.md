@@ -1,2 +1,2 @@
 # some_homework
-Some stuff for stepik selenium course
+Hello there! This is my stuff for stepik selenium course
